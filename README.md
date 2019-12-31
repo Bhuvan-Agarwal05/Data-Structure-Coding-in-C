@@ -55,3 +55,20 @@
                 8) Deletion Of The Node From Any Position Of The Linked List.
                 9) Reverse The Linked List.
                 10) Display The Linked List.
+
+
+# Implementation-Of-Stack-Using-Array :
+  Basic Operations Included =>
+
+                1) Push / Insert Data Into The Stack.
+                2) Pop / Delete The Top Most Data From The Stack.
+                3) Peek / Print The Top Most Data From The Stack.
+                4) Display / Traverse The Data In The Stack.
+
+# Implementation-Of-Stack-Using-Linked-List :
+  Basic Operations Included =>
+
+                1) Push / Insert Data Into The Stack.
+                2) Pop / Delete The Top Most Data From The Stack.
+                3) Peek / Print The Top Most Data From The Stack.
+                4) Display / Traverse The Data In The Stack.
